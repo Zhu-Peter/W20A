@@ -1,0 +1,10 @@
+-- client
+-- id (PK)
+-- username (unique)
+-- joined_on
+-- password
+-- post
+-- id(PK)
+-- client_id (FK)
+-- content
+-- title
